@@ -43,6 +43,10 @@ SQL(Relational Database) or NoSQL(Non-Relational Database)
 
 If you need to review JavaScript, we recommend reading [this guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
 
+[Next.js](https://nextjs.org/) is a popular and lightweight framework for **static and server‑rendered applications** built with React. It includes **styling and routing solutions** out of the box, and assumes that you’re using [Node.js](https://nodejs.org/) as the server environment.
+
+Learn Next.js from [its official guide](https://nextjs.org/learn/).
+
 
 
 ## 傻瓜式操作
