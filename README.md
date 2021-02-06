@@ -35,9 +35,13 @@ SQL(Relational Database) or NoSQL(Non-Relational Database)
 
 [MySQL](https://www.mysql.com/)
 
+
+
 ## React入门
 
 [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
+If you need to review JavaScript, we recommend reading [this guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
 
 
 
