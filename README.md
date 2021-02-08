@@ -13,6 +13,10 @@
 
 
 
+[Django](https://www.djangoproject.com/) - The Web framework for perfectionists with deadlines
+
+
+
 ## 数据库选择
 
 SQL(Relational Database) or NoSQL(Non-Relational Database)
